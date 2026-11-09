@@ -1,0 +1,1 @@
+{"source":"ETF_ISSUERS","as_of":"2026-11-23T15:30:00+09:00","quality":"ok","notes":["운용사 공시 PDF 기준일은 운용사마다 다르다 — 섞지 않고 펀드마다 그대로"],"generated_at":"2026-11-23T07:55:40.275614Z","data":{"code":"204620","name":"글로벌텍스프리","rows":[{"fund_id":"tiger:KR70204S0006","etf_code":"0204S0","etf_name":"TIGER 코스닥액티브","is_active":true,"asof":"2026-11-23","wt":1.59,"qty":144.0,"val":902880.0}]}}
